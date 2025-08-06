@@ -26,8 +26,8 @@
 
 | Group | Total Users | Conversions | Conversion Rate |
 |-------|-------------|-------------|-----------------|
-| A     | 5,000       | 611         | 12.22%          |
-| B     | 5,000       | 741         | 14.82%          |
+| A     | 5,000       | 578         | 11.56%          |
+| B     | 5,000       | 718         | 14.36%          |
 
 - ✅ Version B outperformed Version A with a **statistically significant** improvement (p = 0.00003).
 
